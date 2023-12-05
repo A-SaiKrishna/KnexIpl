@@ -1,0 +1,6405 @@
+[
+  {
+    "player_dismissed": "KM Jadhav",
+    "wicket_taker": "BCJ Cutting",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "TM Head",
+    "wicket_taker": "Rashid Khan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sachin Baby",
+    "wicket_taker": "Bipul Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Aravind", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  { "player_dismissed": "TS Mills", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "YS Chahal",
+    "wicket_taker": "CJ Jordan (sub)",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "A Zampa", "maxtimes": 1 },
+  {
+    "player_dismissed": "TG Southee",
+    "wicket_taker": "MS Dhoni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BA Stokes",
+    "wicket_taker": "HH Pandya",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JJ Roy", "wicket_taker": "PP Chawla", "maxtimes": 1 },
+  {
+    "player_dismissed": "BA Stokes",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AR Patel",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Vishnu Vinod",
+    "wicket_taker": "S Nadeem",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Negi", "wicket_taker": "CH Morris", "maxtimes": 2 },
+  {
+    "player_dismissed": "TS Mills",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Brathwaite",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Cummins",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Nadeem", "wicket_taker": "P Negi", "maxtimes": 2 },
+  { "player_dismissed": "JJ Roy", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "DS Kulkarni",
+    "wicket_taker": "Rashid Khan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Dhawan", "wicket_taker": "P Kumar", "maxtimes": 4 },
+  { "player_dismissed": "CA Lynn", "wicket_taker": "JJ Bumrah", "maxtimes": 2 },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Woakes",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "AS Rajpoot",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "AS Rajpoot", "maxtimes": 1 },
+  {
+    "player_dismissed": "SR Watson",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 5
+  },
+  {
+    "player_dismissed": "Vishnu Vinod",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mandeep Singh",
+    "wicket_taker": "VR Aaron",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BA Stokes",
+    "wicket_taker": "PJ Cummins",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "DL Chahar", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  { "player_dismissed": "A Zampa", "wicket_taker": "A Mishra", "maxtimes": 1 },
+  {
+    "player_dismissed": "DA Warner",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "BCJ Cutting",
+    "wicket_taker": "JJ Bumrah",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "V Shankar",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Rashid Khan",
+    "wicket_taker": "JJ Bumrah",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JC Buttler",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "KH Pandya", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  { "player_dismissed": "N Rana", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  { "player_dismissed": "M Vohra", "wicket_taker": "PP Chawla", "maxtimes": 2 },
+  {
+    "player_dismissed": "MP Stoinis",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AR Patel", "wicket_taker": "UT Yadav", "maxtimes": 2 },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "CR Woakes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "VR Aaron",
+    "wicket_taker": "CR Woakes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB de Villiers",
+    "wicket_taker": "KH Pandya",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "MJ McClenaghan",
+    "wicket_taker": "S Badree",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "S Badree", "maxtimes": 1 },
+  { "player_dismissed": "BA Stokes", "wicket_taker": "AJ Tye", "maxtimes": 1 },
+  {
+    "player_dismissed": "Ankit Sharma",
+    "wicket_taker": "AJ Tye",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SN Thakur", "wicket_taker": "AJ Tye", "maxtimes": 1 },
+  { "player_dismissed": "MK Pandey", "wicket_taker": "B Kumar", "maxtimes": 4 },
+  { "player_dismissed": "SA Yadav", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "C de Grandhomme",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BCJ Cutting",
+    "wicket_taker": "TA Boult",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "GJ Maxwell",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "PJ Cummins",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KC Cariappa",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SK Raina",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 5
+  },
+  {
+    "player_dismissed": "BB McCullum",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 4
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "AJ Tye", "maxtimes": 1 },
+  {
+    "player_dismissed": "RA Tripathi",
+    "wicket_taker": "P Negi",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "BA Stokes",
+    "wicket_taker": "AF Milne",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SN Thakur",
+    "wicket_taker": "AF Milne",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KM Jadhav",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "S Badree",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AF Milne",
+    "wicket_taker": "BA Stokes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "NM Coulter-Nile",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "CR Woakes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "C de Grandhomme",
+    "wicket_taker": "Z Khan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "G Gambhir", "wicket_taker": "Z Khan", "maxtimes": 6 },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "PJ Cummins",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Woakes",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Dhawan",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "Mohammad Nabi",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "HM Amla", "wicket_taker": "B Kumar", "maxtimes": 2 },
+  { "player_dismissed": "MM Sharma", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "KC Cariappa",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Vohra", "wicket_taker": "B Kumar", "maxtimes": 2 },
+  { "player_dismissed": "I Sharma", "wicket_taker": "S Kaul", "maxtimes": 1 },
+  {
+    "player_dismissed": "KS Williamson",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "Mohammed Siraj",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MP Stoinis",
+    "wicket_taker": "MJ McClenaghan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JC Buttler",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "BB McCullum",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "PJ Cummins", "maxtimes": 1 },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SV Samson",
+    "wicket_taker": "MJ McClenaghan",
+    "maxtimes": 4
+  },
+  { "player_dismissed": "RR Pant", "wicket_taker": "JJ Bumrah", "maxtimes": 3 },
+  {
+    "player_dismissed": "K Rabada",
+    "wicket_taker": "JJ Bumrah",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "BA Stokes", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  { "player_dismissed": "MP Stoinis", "wicket_taker": "AJ Tye", "maxtimes": 1 },
+  {
+    "player_dismissed": "AJ Finch",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "AD Nath",
+    "wicket_taker": "KC Cariappa",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AJ Tye",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "C de Grandhomme",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Woakes",
+    "wicket_taker": "TS Mills",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NM Coulter-Nile",
+    "wicket_taker": "P Negi",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SA Yadav", "wicket_taker": "P Negi", "maxtimes": 1 },
+  {
+    "player_dismissed": "Kuldeep Yadav",
+    "wicket_taker": "S Aravind",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mandeep Singh",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "S Badree",
+    "wicket_taker": "CR Woakes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TS Mills",
+    "wicket_taker": "C de Grandhomme",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "YS Chahal",
+    "wicket_taker": "C de Grandhomme",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BA Stokes",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "N Rana",
+    "wicket_taker": "DT Christian",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ McClenaghan",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DT Christian",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "TM Head", "wicket_taker": "AJ Tye", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Badree",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Aravind",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "YS Chahal",
+    "wicket_taker": "BB McCullum",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "NM Coulter-Nile",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ Guptill",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "SE Marsh", "wicket_taker": "B Kumar", "maxtimes": 3 },
+  { "player_dismissed": "MM Sharma", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "Anureet Singh",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TM Head",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sachin Baby",
+    "wicket_taker": "Washington Sundar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AF Milne",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Badree",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AJ Tye", "wicket_taker": "JJ Bumrah", "maxtimes": 1 },
+  {
+    "player_dismissed": "JC Buttler",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "Ankit Soni", "maxtimes": 1 },
+  {
+    "player_dismissed": "MJ McClenaghan",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JJ Bumrah",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SS Iyer",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "K Rabada",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammed Shami",
+    "wicket_taker": "VR Aaron",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KS Williamson",
+    "wicket_taker": "NM Coulter-Nile",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SP Jackson",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "C de Grandhomme",
+    "wicket_taker": "S Kaul",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "TM Head", "wicket_taker": "KH Pandya", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Aravind",
+    "wicket_taker": "PA Patel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "P Negi", "maxtimes": 1 },
+  {
+    "player_dismissed": "KV Sharma",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Ishan Kishan",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "PJ Sangwan",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Ankit Soni",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SP Jackson",
+    "wicket_taker": "Washington Sundar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "C de Grandhomme",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Woakes",
+    "wicket_taker": "SPD Smith",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NM Coulter-Nile",
+    "wicket_taker": "BA Stokes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BA Stokes",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "A Choudhary",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Gayle",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "KM Jadhav",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "S Aravind",
+    "wicket_taker": "GJ Maxwell",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Badree", "wicket_taker": "AR Patel", "maxtimes": 1 },
+  {
+    "player_dismissed": "A Choudhary",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BA Stokes",
+    "wicket_taker": "Rashid Khan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SN Thakur", "wicket_taker": "S Kaul", "maxtimes": 1 },
+  {
+    "player_dismissed": "Bipul Sharma",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Rashid Khan",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KK Nair",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "KV Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Cummins",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "K Rabada",
+    "wicket_taker": "KV Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammed Shami",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "C de Grandhomme",
+    "wicket_taker": "P Negi",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "S Kaul", "maxtimes": 1 },
+  {
+    "player_dismissed": "Yuvraj Singh",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "Swapnil Singh",
+    "wicket_taker": "CR Woakes",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "CA Lynn", "wicket_taker": "AR Patel", "maxtimes": 2 },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Brathwaite",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Cummins",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "AR Patel", "maxtimes": 1 },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "DT Christian",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Cummins",
+    "wicket_taker": "BA Stokes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammed Shami",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BA Stokes",
+    "wicket_taker": "Mohammed Shami",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Sangwan",
+    "wicket_taker": "Mohammed Siraj",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "Ankit Soni", "wicket_taker": "S Kaul", "maxtimes": 1 },
+  { "player_dismissed": "MM Patel", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "YK Pathan",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "C de Grandhomme",
+    "wicket_taker": "HH Pandya",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Kuldeep Yadav",
+    "wicket_taker": "TG Southee",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Tewatia",
+    "wicket_taker": "SN Thakur",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Swapnil Singh",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "I Sharma", "wicket_taker": "A Zampa", "maxtimes": 1 },
+  { "player_dismissed": "MM Sharma", "wicket_taker": "A Zampa", "maxtimes": 1 },
+  {
+    "player_dismissed": "Vishnu Vinod",
+    "wicket_taker": "PJ Cummins",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "TM Head", "wicket_taker": "SS Iyer", "maxtimes": 1 },
+  {
+    "player_dismissed": "Sachin Baby",
+    "wicket_taker": "PJ Cummins",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "HV Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Cummins",
+    "wicket_taker": "TM Head",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammed Shami",
+    "wicket_taker": "P Negi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "SN Thakur",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ McClenaghan",
+    "wicket_taker": "SN Thakur",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Yuvraj Singh",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "V Shankar",
+    "wicket_taker": "NM Coulter-Nile",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CJ Jordan",
+    "wicket_taker": "NM Coulter-Nile",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "YK Pathan", "wicket_taker": "B Kumar", "maxtimes": 4 },
+  {
+    "player_dismissed": "C de Grandhomme",
+    "wicket_taker": "KV Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "IR Jaggi",
+    "wicket_taker": "KV Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NM Coulter-Nile",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "JJ Bumrah",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AS Rajpoot",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "DT Christian",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Washington Sundar",
+    "wicket_taker": "J Suchith (sub)",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "W Jaffer", "wicket_taker": "AB Dinda", "maxtimes": 1 },
+  {
+    "player_dismissed": "B Akhil",
+    "wicket_taker": "AB Agarkar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Noffke",
+    "wicket_taker": "AB Agarkar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Joshi",
+    "wicket_taker": "LR Shukla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JDP Oram",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "K Goel", "wicket_taker": "MS Gony", "maxtimes": 2 },
+  {
+    "player_dismissed": "JR Hopes",
+    "wicket_taker": "P Amarnath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "T Kohli",
+    "wicket_taker": "GD McGrath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DS Lehmann",
+    "wicket_taker": "MF Maharoof",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Rawat", "wicket_taker": "R Bhatia", "maxtimes": 1 },
+  {
+    "player_dismissed": "SK Warne",
+    "wicket_taker": "MF Maharoof",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "V Sehwag",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "L Ronchi", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  { "player_dismissed": "PR Shah", "wicket_taker": "B Akhil", "maxtimes": 1 },
+  { "player_dismissed": "SM Pollock", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Chanderpaul",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Dravid",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "V Kohli", "wicket_taker": "A Nehra", "maxtimes": 6 },
+  {
+    "player_dismissed": "SB Styris",
+    "wicket_taker": "Mohammad Hafeez",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AS Yadav",
+    "wicket_taker": "DJ Hussey",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WPUJC Vaas",
+    "wicket_taker": "AB Agarkar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Bangar",
+    "wicket_taker": "M Kartik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "WPUJC Vaas",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammad Hafeez",
+    "wicket_taker": "PP Ojha",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "SK Warne", "maxtimes": 1 },
+  { "player_dismissed": "B Lee", "wicket_taker": "SK Trivedi", "maxtimes": 1 },
+  {
+    "player_dismissed": "M Kaif",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Kamran Akmal",
+    "wicket_taker": "JR Hopes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DS Lehmann",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shahid Afridi",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Bangar",
+    "wicket_taker": "MK Tiwary",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AS Yadav",
+    "wicket_taker": "VY Mahesh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ML Hayden",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "L Ronchi",
+    "wicket_taker": "S Badrinath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Pollock",
+    "wicket_taker": "P Amarnath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MA Khote",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shahid Afridi",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AS Yadav",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Kamran Akmal",
+    "wicket_taker": "WPUJC Vaas",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "D Salunkhe",
+    "wicket_taker": "VVS Laxman",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "RR Sarwan", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Sreesanth",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "VRV Singh",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ST Jayasuriya",
+    "wicket_taker": "B Lee",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "L Ronchi", "wicket_taker": "B Lee", "maxtimes": 1 },
+  {
+    "player_dismissed": "SS Tiwary",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AM Nayar",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SM Pollock",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MA Khote",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Chanderpaul",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Joshi",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Rawat", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "JDP Oram",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammad Hafeez",
+    "wicket_taker": "P Amarnath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "MS Gony",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Kartik", "wicket_taker": "JDP Oram", "maxtimes": 1 },
+  { "player_dismissed": "L Ronchi", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "SM Pollock",
+    "wicket_taker": "SB Bangar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "DJ Bravo", "wicket_taker": "RP Singh", "maxtimes": 3 },
+  {
+    "player_dismissed": "Shoaib Malik",
+    "wicket_taker": "VRV Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "DPMD Jayawardene",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "V Sehwag",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TM Srivastava",
+    "wicket_taker": "VY Mahesh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MS Dhoni", "wicket_taker": "Z Khan", "maxtimes": 7 },
+  { "player_dismissed": "MEK Hussey", "wicket_taker": "Z Khan", "maxtimes": 4 },
+  { "player_dismissed": "B Chipli", "wicket_taker": "MS Gony", "maxtimes": 1 },
+  {
+    "player_dismissed": "W Jaffer",
+    "wicket_taker": "P Amarnath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "AM Rahane",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammad Hafeez",
+    "wicket_taker": "ST Jayasuriya",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "ST Jayasuriya",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Kartik",
+    "wicket_taker": "CRD Fernando",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shoaib Malik",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "W Jaffer",
+    "wicket_taker": "GD McGrath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AC Gilchrist",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "HH Gibbs",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Shahid Afridi",
+    "wicket_taker": "Gagandeep Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Y Venugopal Rao",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "SB Bangar",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DNT Zoysa",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "D Kalyankrishna",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RR Sarwan",
+    "wicket_taker": "SB Bangar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Salman Butt",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LR Shukla",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "DJ Hussey",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "DB Das",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Umar Gul",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Vidyut",
+    "wicket_taker": "GD McGrath",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "LPC Silva", "wicket_taker": "V Kohli", "maxtimes": 1 },
+  {
+    "player_dismissed": "RG Sharma",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 6
+  },
+  {
+    "player_dismissed": "SB Bangar",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WPUJC Vaas",
+    "wicket_taker": "SP Goswami",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AS Yadav", "wicket_taker": "DW Steyn", "maxtimes": 1 },
+  { "player_dismissed": "RP Singh", "wicket_taker": "DW Steyn", "maxtimes": 2 },
+  { "player_dismissed": "W Jaffer", "wicket_taker": "AS Yadav", "maxtimes": 1 },
+  {
+    "player_dismissed": "Misbah-ul-Haq",
+    "wicket_taker": "DB Ravi Teja",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "AB Dinda", "maxtimes": 1 },
+  {
+    "player_dismissed": "Mohammad Hafeez",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DB Das",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "LR Shukla",
+    "wicket_taker": "VRV Singh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "YV Takawale",
+    "wicket_taker": "VY Mahesh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Thornely",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Pollock",
+    "wicket_taker": "VY Mahesh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shoaib Malik",
+    "wicket_taker": "SM Pollock",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Sangwan",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammad Asif",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "GD McGrath",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SP Fleming",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "S Vidyut",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Joginder Sharma",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JA Morkel",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "M Muralitharan",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Ntini",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "W Jaffer",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Misbah-ul-Haq",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DT Patil",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Kumble", "wicket_taker": "U Kaul", "maxtimes": 1 },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  { "player_dismissed": "RR Sarwan", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Anirudha",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Joginder Sharma",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Kaif", "wicket_taker": "RR Raje", "maxtimes": 2 },
+  {
+    "player_dismissed": "Sohail Tanvir",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Rawat", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "SK Trivedi",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ST Jayasuriya",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "YV Takawale",
+    "wicket_taker": "SK Warne",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shoaib Malik",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Vidyut",
+    "wicket_taker": "PJ Sangwan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JA Morkel",
+    "wicket_taker": "V Sehwag",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "CK Kapugedera",
+    "wicket_taker": "VY Mahesh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Chopra", "wicket_taker": "DW Steyn", "maxtimes": 1 },
+  { "player_dismissed": "BJ Hodge", "wicket_taker": "Z Khan", "maxtimes": 2 },
+  { "player_dismissed": "T Taibu", "wicket_taker": "DW Steyn", "maxtimes": 1 },
+  { "player_dismissed": "M Kartik", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Chanderpaul",
+    "wicket_taker": "I Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "J Arunkumar",
+    "wicket_taker": "BJ Hodge",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Styris",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shahid Afridi",
+    "wicket_taker": "SK Warne",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Bangar",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Misbah-ul-Haq",
+    "wicket_taker": "CRD Fernando",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Akhil", "wicket_taker": "DR Smith", "maxtimes": 1 },
+  {
+    "player_dismissed": "ST Jayasuriya",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "S Vidyut",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JR Hopes",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RR Sarwan",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "VRV Singh",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Salman Butt",
+    "wicket_taker": "WPUJC Vaas",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Chopra", "wicket_taker": "HH Gibbs", "maxtimes": 1 },
+  { "player_dismissed": "T Taibu", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "SB Styris",
+    "wicket_taker": "SC Ganguly",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Bangar",
+    "wicket_taker": "SC Ganguly",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WPUJC Vaas",
+    "wicket_taker": "LR Shukla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RA Jadeja",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "J Arunkumar",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Misbah-ul-Haq",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JR Hopes",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Chopra",
+    "wicket_taker": "PJ Sangwan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Salman Butt",
+    "wicket_taker": "VY Mahesh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "T Taibu",
+    "wicket_taker": "TM Dilshan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Sangwan",
+    "wicket_taker": "LR Shukla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "VY Mahesh",
+    "wicket_taker": "LR Shukla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Vidyut",
+    "wicket_taker": "SM Pollock",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CK Kapugedera",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JR Hopes",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Younis Khan",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Niraj Patel",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Kamran Akmal",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "D Salunkhe",
+    "wicket_taker": "JR Hopes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "PP Ojha",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shahid Afridi",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Styris",
+    "wicket_taker": "MF Maharoof",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Salman Butt",
+    "wicket_taker": "SM Pollock",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Chopra",
+    "wicket_taker": "RV Uthappa",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammad Hafeez",
+    "wicket_taker": "SM Pollock",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "WP Saha", "wicket_taker": "DJ Bravo", "maxtimes": 3 },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "I Sharma",
+    "wicket_taker": "DJ Thornely",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shoaib Akhtar",
+    "wicket_taker": "RR Raje",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "JR Hopes",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "A Mishra", "maxtimes": 1 },
+  {
+    "player_dismissed": "J Arunkumar",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Misbah-ul-Haq",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "DT Patil", "wicket_taker": "SK Warne", "maxtimes": 1 },
+  {
+    "player_dismissed": "A Kumble",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Thornely",
+    "wicket_taker": "Shahid Afridi",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "PR Shah", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "Shahid Afridi",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LPC Silva",
+    "wicket_taker": "AM Nayar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Y Venugopal Rao",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "H Das", "wicket_taker": "YV Takawale", "maxtimes": 1 },
+  {
+    "player_dismissed": "Mohammad Hafeez",
+    "wicket_taker": "M Ntini",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Salman Butt",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "GD McGrath",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Akhil", "wicket_taker": "V Sehwag", "maxtimes": 1 },
+  { "player_dismissed": "V Sehwag", "wicket_taker": "P Kumar", "maxtimes": 3 },
+  {
+    "player_dismissed": "Mohammad Hafeez",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Salman Butt",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Umar Gul",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sohail Tanvir",
+    "wicket_taker": "Umar Gul",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JR Hopes",
+    "wicket_taker": "SM Pollock",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Pollock",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PR Shah",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SD Chitnis",
+    "wicket_taker": "TM Srivastava",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Nehra",
+    "wicket_taker": "TM Srivastava",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "VS Yeligati",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Misbah-ul-Haq",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Badrinath",
+    "wicket_taker": "A Kumble",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "JA Morkel",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "S Vidyut", "wicket_taker": "DW Steyn", "maxtimes": 1 },
+  { "player_dismissed": "MS Gony", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  { "player_dismissed": "L Balaji", "wicket_taker": "R Dravid", "maxtimes": 1 },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "PP Ojha",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Pollock",
+    "wicket_taker": "MF Maharoof",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SD Chitnis",
+    "wicket_taker": "VY Mahesh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "PR Shah", "wicket_taker": "VY Mahesh", "maxtimes": 1 },
+  { "player_dismissed": "A Nel", "wicket_taker": "V Sehwag", "maxtimes": 1 },
+  { "player_dismissed": "V Sehwag", "wicket_taker": "A Nehra", "maxtimes": 3 },
+  {
+    "player_dismissed": "T Kohli",
+    "wicket_taker": "S Badrinath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Mukund",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Chipli", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  { "player_dismissed": "W Jaffer", "wicket_taker": "PP Ojha", "maxtimes": 1 },
+  {
+    "player_dismissed": "Misbah-ul-Haq",
+    "wicket_taker": "Shahid Afridi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MV Boucher",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "HH Gibbs", "wicket_taker": "P Kumar", "maxtimes": 2 },
+  {
+    "player_dismissed": "Shahid Afridi",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SB Styris", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "Umar Gul", "maxtimes": 1 },
+  {
+    "player_dismissed": "Salman Butt",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Chopra", "wicket_taker": "JR Hopes", "maxtimes": 1 },
+  {
+    "player_dismissed": "Umar Gul",
+    "wicket_taker": "VRV Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Pollock",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Kamran Akmal",
+    "wicket_taker": "MK Pandey",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Styris",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AS Yadav",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shahid Afridi",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sohail Tanvir",
+    "wicket_taker": "MF Maharoof",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Kaif", "wicket_taker": "A Mishra", "maxtimes": 2 },
+  {
+    "player_dismissed": "M Rawat",
+    "wicket_taker": "Mohammad Asif",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "SK Warne",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "VY Mahesh",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammad Asif",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "M Ntini", "maxtimes": 1 },
+  { "player_dismissed": "WA Mota", "wicket_taker": "JA Morkel", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Vidyut",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Vidyut",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CK Kapugedera",
+    "wicket_taker": "Sohail Tanvir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Niraj Patel",
+    "wicket_taker": "MS Gony",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Asnodkar",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Kamran Akmal",
+    "wicket_taker": "M Ntini",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Kaif",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "A Flintoff",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Akhil", "wicket_taker": "SK Warne", "maxtimes": 1 },
+  { "player_dismissed": "R Dravid", "wicket_taker": "MM Patel", "maxtimes": 3 },
+  {
+    "player_dismissed": "SA Asnodkar",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "GC Smith", "wicket_taker": "P Kumar", "maxtimes": 2 },
+  {
+    "player_dismissed": "Niraj Patel",
+    "wicket_taker": "JD Ryder",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "T Henderson",
+    "wicket_taker": "JD Ryder",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SK Warne", "wicket_taker": "A Kumble", "maxtimes": 2 },
+  { "player_dismissed": "MM Patel", "wicket_taker": "A Kumble", "maxtimes": 1 },
+  {
+    "player_dismissed": "Kamran Khan",
+    "wicket_taker": "A Kumble",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Chopra", "wicket_taker": "PP Ojha", "maxtimes": 1 },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "RG Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "I Sharma", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "ML Hayden",
+    "wicket_taker": "R Dravid",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "R Bishnoi",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "SC Ganguly",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "T Kohli", "wicket_taker": "AB Dinda", "maxtimes": 1 },
+  {
+    "player_dismissed": "SB Styris",
+    "wicket_taker": "KP Pietersen",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JH Kallis",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "R Bishnoi",
+    "wicket_taker": "AC Gilchrist",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ML Hayden",
+    "wicket_taker": "PJ Sangwan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "A Flintoff",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Badrinath",
+    "wicket_taker": "DL Vettori",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "MS Gony", "wicket_taker": "V Sehwag", "maxtimes": 1 },
+  {
+    "player_dismissed": "Joginder Sharma",
+    "wicket_taker": "DA Warner (sub)",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "L Balaji",
+    "wicket_taker": "PJ Sangwan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Bangar",
+    "wicket_taker": "Kamran Khan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Yashpal Singh",
+    "wicket_taker": "SK Warne",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "I Sharma",
+    "wicket_taker": "Kamran Khan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Pankaj Singh",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "FH Edwards",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DB Ravi Teja",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "ST Jayasuriya",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "MV Boucher",
+    "wicket_taker": "PJ Sangwan",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "AS Raut", "wicket_taker": "PP Chawla", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Badrinath",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "VVS Laxman",
+    "wicket_taker": "SK Raina",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "AN Ghosh", "wicket_taker": "AM Nayar", "maxtimes": 1 },
+  {
+    "player_dismissed": "Yashpal Singh",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "LR Shukla", "wicket_taker": "Z Khan", "maxtimes": 2 },
+  {
+    "player_dismissed": "BAW Mendis",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Dinda",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "DL Vettori",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "RJ Quiney", "wicket_taker": "A Nehra", "maxtimes": 2 },
+  {
+    "player_dismissed": "PC Valthaty",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "SK Warne", "wicket_taker": "A Mishra", "maxtimes": 2 },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "I Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RS Bopara",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "IK Pathan", "wicket_taker": "Z Khan", "maxtimes": 2 },
+  {
+    "player_dismissed": "WA Mota",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "RR Powar", "wicket_taker": "PR Shah", "maxtimes": 1 },
+  {
+    "player_dismissed": "AA Bilakhia",
+    "wicket_taker": "DL Vettori",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shoaib Ahmed",
+    "wicket_taker": "KD Karthik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ML Hayden",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "MM Patel", "wicket_taker": "JDP Oram", "maxtimes": 1 },
+  {
+    "player_dismissed": "SK Trivedi",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "GR Napier",
+    "wicket_taker": "CH Gayle",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MN van Wyk",
+    "wicket_taker": "GR Napier",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JD Ryder",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "R Bishnoi",
+    "wicket_taker": "YA Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "YA Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Kumble",
+    "wicket_taker": "YA Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "RE van der Merwe",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Bilakhia",
+    "wicket_taker": "SM Harwood",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "NV Ojha", "wicket_taker": "RP Singh", "maxtimes": 4 },
+  {
+    "player_dismissed": "LA Carseldine",
+    "wicket_taker": "Y Venugopal Rao",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Badrinath",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "L Balaji", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "SB Jakati",
+    "wicket_taker": "DP Nannes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Muralitharan",
+    "wicket_taker": "AB de Villiers",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Sangwan",
+    "wicket_taker": "SB Jakati",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BB McCullum",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "BJ Hodge",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ST Jayasuriya",
+    "wicket_taker": "RE van der Merwe",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "W Jaffer", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  { "player_dismissed": "PP Ojha", "wicket_taker": "SK Raina", "maxtimes": 2 },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MN van Wyk",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SR Tendulkar",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "PR Shah", "wicket_taker": "TL Suman", "maxtimes": 1 },
+  { "player_dismissed": "W Jaffer", "wicket_taker": "A Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "A Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "D du Preez",
+    "wicket_taker": "A Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Vinay Kumar",
+    "wicket_taker": "A Singh",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "LA Carseldine",
+    "wicket_taker": "V Kohli",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "L Ronchi",
+    "wicket_taker": "DA Warner",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JP Duminy",
+    "wicket_taker": "DP Nannes",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "PR Shah", "wicket_taker": "R Bhatia", "maxtimes": 1 },
+  { "player_dismissed": "AM Nayar", "wicket_taker": "A Nehra", "maxtimes": 2 },
+  { "player_dismissed": "RR Raje", "wicket_taker": "R Bhatia", "maxtimes": 1 },
+  {
+    "player_dismissed": "DS Kulkarni",
+    "wicket_taker": "DA Warner",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "RG Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "WA Mota", "wicket_taker": "HH Gibbs", "maxtimes": 1 },
+  {
+    "player_dismissed": "LA Carseldine",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AS Raut", "wicket_taker": "SB Jakati", "maxtimes": 1 },
+  {
+    "player_dismissed": "LRPL Taylor",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "BJ Hodge", "wicket_taker": "A Nehra", "maxtimes": 2 },
+  {
+    "player_dismissed": "MN van Wyk",
+    "wicket_taker": "DP Nannes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Yashpal Singh",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "PJ Sangwan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TM Dilshan",
+    "wicket_taker": "I Sharma",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "WPUJC Vaas",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LA Carseldine",
+    "wicket_taker": "WPUJC Vaas",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AS Raut", "wicket_taker": "RG Sharma", "maxtimes": 1 },
+  {
+    "player_dismissed": "M Morkel",
+    "wicket_taker": "RG Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SK Trivedi",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MM Patel", "wicket_taker": "TL Suman", "maxtimes": 1 },
+  {
+    "player_dismissed": "SC Ganguly",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "AN Ghosh",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "WA Mota", "wicket_taker": "JP Duminy", "maxtimes": 1 },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "AM Rahane",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Lee", "wicket_taker": "SL Malinga", "maxtimes": 1 },
+  {
+    "player_dismissed": "A Mishra",
+    "wicket_taker": "AC Gilchrist",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Shoaib Ahmed",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ML Hayden",
+    "wicket_taker": "A Kumble",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "JDP Oram",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "L Balaji",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Muralitharan",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Tyagi", "wicket_taker": "B Akhil", "maxtimes": 1 },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Akhil", "wicket_taker": "JDP Oram", "maxtimes": 1 },
+  {
+    "player_dismissed": "SD Chitnis",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "YV Takawale",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JP Duminy",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "DS Kulkarni",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "C Nanda", "wicket_taker": "YK Pathan", "maxtimes": 1 },
+  {
+    "player_dismissed": "TM Dilshan",
+    "wicket_taker": "S Sreesanth",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "MF Maharoof", "wicket_taker": "B Lee", "maxtimes": 1 },
+  {
+    "player_dismissed": "DL Vettori",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "MF Maharoof",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "MF Maharoof",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JP Duminy",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "BJ Hodge",
+    "wicket_taker": "RJ Harris",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "S Sohal", "wicket_taker": "RP Singh", "maxtimes": 2 },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "HH Gibbs",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "A Symonds",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "WA Mota", "wicket_taker": "TL Suman", "maxtimes": 1 },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "HH Gibbs",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "V Sehwag", "wicket_taker": "MM Patel", "maxtimes": 3 },
+  { "player_dismissed": "AS Raut", "wicket_taker": "A Mishra", "maxtimes": 1 },
+  { "player_dismissed": "A Singh", "wicket_taker": "A Mishra", "maxtimes": 1 },
+  { "player_dismissed": "M Manhas", "wicket_taker": "P Kumar", "maxtimes": 2 },
+  {
+    "player_dismissed": "AB McDonald",
+    "wicket_taker": "A Kumble",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "Y Nagar", "wicket_taker": "A Kumble", "maxtimes": 1 },
+  {
+    "player_dismissed": "Niraj Patel",
+    "wicket_taker": "CK Langeveldt",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "T Henderson",
+    "wicket_taker": "DJ Hussey",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Yashpal Singh",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SS Shaikh", "wicket_taker": "J Botha", "maxtimes": 1 },
+  { "player_dismissed": "MS Gony", "wicket_taker": "PP Chawla", "maxtimes": 1 },
+  {
+    "player_dismissed": "T Thushara",
+    "wicket_taker": "SM Katich",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SM Katich",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "WA Mota", "wicket_taker": "R Ashwin", "maxtimes": 1 },
+  { "player_dismissed": "B Lee", "wicket_taker": "SK Raina", "maxtimes": 1 },
+  {
+    "player_dismissed": "Mohammad Ashraful",
+    "wicket_taker": "PJ Sangwan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SR Tendulkar",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "PR Shah", "wicket_taker": "DP Nannes", "maxtimes": 1 },
+  {
+    "player_dismissed": "R Bhatia",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "A Symonds",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LRPL Taylor",
+    "wicket_taker": "PP Ojha",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "R Bhatia", "wicket_taker": "RP Singh", "maxtimes": 2 },
+  {
+    "player_dismissed": "AA Bilakhia",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Symonds",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Bilakhia",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "PP Ojha",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Anirudh Singh",
+    "wicket_taker": "LR Shukla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WPUJC Vaas",
+    "wicket_taker": "CK Langeveldt",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "P Dogra",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Uniyal",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RR Powar",
+    "wicket_taker": "DP Nannes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Dravid",
+    "wicket_taker": "AD Mathews",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "AD Mathews",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Badrinath",
+    "wicket_taker": "PP Ojha",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "JM Kemp", "wicket_taker": "PP Ojha", "maxtimes": 1 },
+  { "player_dismissed": "L Balaji", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "M Muralitharan",
+    "wicket_taker": "A Symonds",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "G Gambhir", "maxtimes": 1 },
+  {
+    "player_dismissed": "RS Gavaskar",
+    "wicket_taker": "JM Kemp",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SE Bond", "wicket_taker": "R Ashwin", "maxtimes": 1 },
+  {
+    "player_dismissed": "M Kartik",
+    "wicket_taker": "S Badrinath",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "ST Jayasuriya",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Sangwan",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DP Nannes",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "DR Martyn", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  { "player_dismissed": "S Narwal", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  { "player_dismissed": "P Dogra", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  { "player_dismissed": "M Morkel", "wicket_taker": "A Kumble", "maxtimes": 1 },
+  { "player_dismissed": "MM Patel", "wicket_taker": "R Dravid", "maxtimes": 1 },
+  {
+    "player_dismissed": "DA Warner",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "JM Kemp", "wicket_taker": "DP Nannes", "maxtimes": 1 },
+  {
+    "player_dismissed": "Anirudh Singh",
+    "wicket_taker": "Bipul Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WPUJC Vaas",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AB Barath", "wicket_taker": "PP Ojha", "maxtimes": 1 },
+  { "player_dismissed": "FY Fazal", "wicket_taker": "SE Bond", "maxtimes": 1 },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "I Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "I Sharma", "maxtimes": 1 },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BJ Hodge",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Harbhajan Singh",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "MK Pandey",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "Y Nagar",
+    "wicket_taker": "WPUJC Vaas",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Ladda",
+    "wicket_taker": "WPUJC Vaas",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "J Theron", "wicket_taker": "SK Raina", "maxtimes": 1 },
+  {
+    "player_dismissed": "ML Hayden",
+    "wicket_taker": "RR Powar",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "MS Gony", "wicket_taker": "J Theron", "maxtimes": 1 },
+  { "player_dismissed": "OA Shah", "wicket_taker": "Z Khan", "maxtimes": 2 },
+  {
+    "player_dismissed": "S Badrinath",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "JA Morkel",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "FY Fazal",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "PP Chawla", "maxtimes": 1 },
+  { "player_dismissed": "MS Bisla", "wicket_taker": "SK Warne", "maxtimes": 2 },
+  {
+    "player_dismissed": "Yuvraj Singh",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "J Theron", "wicket_taker": "SW Tait", "maxtimes": 1 },
+  {
+    "player_dismissed": "SJ Srivastava",
+    "wicket_taker": "SW Tait",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WPUJC Vaas",
+    "wicket_taker": "P Dogra",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "R Sharma", "wicket_taker": "S Narwal", "maxtimes": 1 },
+  { "player_dismissed": "MJ Lumb", "wicket_taker": "RP Singh", "maxtimes": 2 },
+  {
+    "player_dismissed": "KD Karthik",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "RV Uthappa",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "EJG Morgan",
+    "wicket_taker": "AB de Villiers",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "MJ Lumb", "wicket_taker": "JA Morkel", "maxtimes": 2 },
+  {
+    "player_dismissed": "FY Fazal",
+    "wicket_taker": "SB Jakati",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AC Voges",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "MS Dhoni", "maxtimes": 1 },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "T Thushara",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "HH Gibbs", "wicket_taker": "Z Khan", "maxtimes": 2 },
+  {
+    "player_dismissed": "TL Suman",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "Jaskaran Singh",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "KAJ Roach", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "PD Collingwood",
+    "wicket_taker": "CK Langeveldt",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mandeep Singh",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "PD Collingwood",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Kartik",
+    "wicket_taker": "KD Karthik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CK Langeveldt",
+    "wicket_taker": "AB McDonald",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DPMD Jayawardene",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "B Lee", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  { "player_dismissed": "VS Malik", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "PD Collingwood",
+    "wicket_taker": "AC Voges",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "FY Fazal",
+    "wicket_taker": "MF Maharoof",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "S Ladda",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AC Voges", "wicket_taker": "A Mishra", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Narwal",
+    "wicket_taker": "PD Collingwood",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "S Ladda", "maxtimes": 1 },
+  { "player_dismissed": "SW Tait", "wicket_taker": "V Sehwag", "maxtimes": 1 },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "A Symonds",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "FY Fazal",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "DJ Bravo", "wicket_taker": "PP Ojha", "maxtimes": 3 },
+  {
+    "player_dismissed": "R Sharma",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LRPL Taylor",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "A Mithun", "wicket_taker": "A Mishra", "maxtimes": 1 },
+  { "player_dismissed": "FY Fazal", "wicket_taker": "PP Ojha", "maxtimes": 1 },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "Harmeet Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AS Raut",
+    "wicket_taker": "Harmeet Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AP Dole", "wicket_taker": "RJ Harris", "maxtimes": 1 },
+  {
+    "player_dismissed": "SK Trivedi",
+    "wicket_taker": "DR Smith",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Anirudh Singh",
+    "wicket_taker": "SK Warne",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Bilakhia",
+    "wicket_taker": "SK Warne",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Harmeet Singh",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ML Hayden",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SS Tiwary",
+    "wicket_taker": "SB Jakati",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "R McLaren",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PD Collingwood",
+    "wicket_taker": "BAW Mendis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MD Mishra", "wicket_taker": "P Kumar", "maxtimes": 2 },
+  {
+    "player_dismissed": "R McLaren",
+    "wicket_taker": "L Ablish",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Barath",
+    "wicket_taker": "JP Duminy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Yuvraj Singh",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "T Thushara",
+    "wicket_taker": "RJ Harris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Mathews",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "RV Uthappa",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "I Sharma",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Sriram", "wicket_taker": "AB Dinda", "maxtimes": 1 },
+  {
+    "player_dismissed": "PD Collingwood",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DL Vettori",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MF Maharoof",
+    "wicket_taker": "L Ablish",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Nehra", "wicket_taker": "IK Pathan", "maxtimes": 1 },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "FY Fazal",
+    "wicket_taker": "ST Jayasuriya",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "SS Tiwary",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AC Voges", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "AP Dole",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KP Appanna",
+    "wicket_taker": "RG Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "C Madan",
+    "wicket_taker": "AB McDonald",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PD Collingwood",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "CH Gayle", "wicket_taker": "R Ashwin", "maxtimes": 4 },
+  {
+    "player_dismissed": "AG Paunikar",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "Pankaj Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "L Balaji", "wicket_taker": "A Mishra", "maxtimes": 1 },
+  {
+    "player_dismissed": "KC Sangakkara",
+    "wicket_taker": "R Sharma",
+    "maxtimes": 5
+  },
+  {
+    "player_dismissed": "MR Marsh",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R McLaren",
+    "wicket_taker": "KP Pietersen",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KP Pietersen",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "Pankaj Singh",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AC Voges", "wicket_taker": "AB Dinda", "maxtimes": 1 },
+  {
+    "player_dismissed": "AS Raut",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "M Kartik", "maxtimes": 1 },
+  {
+    "player_dismissed": "FY Fazal",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SK Trivedi",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MR Marsh", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "WPUJC Vaas",
+    "wicket_taker": "PD Collingwood",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JA Morkel", "wicket_taker": "PP Ojha", "maxtimes": 2 },
+  {
+    "player_dismissed": "S Anirudha",
+    "wicket_taker": "RJ Harris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Sumanth",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Harmeet Singh",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Anirudh Singh",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Sharma",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Anirudha",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "IR Jaggi", "wicket_taker": "SK Warne", "maxtimes": 1 },
+  {
+    "player_dismissed": "AG Paunikar",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RV Gomez",
+    "wicket_taker": "DP Nannes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Morkel",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UT Yadav",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Jacobs",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sunny Singh",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MS Bisla", "wicket_taker": "A Mishra", "maxtimes": 2 },
+  {
+    "player_dismissed": "IR Jaggi",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Chipli", "wicket_taker": "R Bhatia", "maxtimes": 1 },
+  {
+    "player_dismissed": "AG Paunikar",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AUK Pathan",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Jacobs",
+    "wicket_taker": "DP Nannes",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Anirudha",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sunny Singh",
+    "wicket_taker": "S Randiv",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Sreesanth",
+    "wicket_taker": "RV Uthappa",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "RV Gomez",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Dhawan", "wicket_taker": "Z Khan", "maxtimes": 4 },
+  { "player_dismissed": "JP Duminy", "wicket_taker": "Z Khan", "maxtimes": 2 },
+  { "player_dismissed": "Z Khan", "wicket_taker": "DW Steyn", "maxtimes": 2 },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JJ van der Wath",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Ninan",
+    "wicket_taker": "DT Christian",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AG Paunikar",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AL Menaria",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "DJ Jacobs",
+    "wicket_taker": "RV Gomez",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AUK Pathan",
+    "wicket_taker": "TG Southee",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MA Agarwal",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "S Randiv",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "PC Valthaty",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MS Gony", "wicket_taker": "R McLaren", "maxtimes": 1 },
+  { "player_dismissed": "MS Wade", "wicket_taker": "R Sharma", "maxtimes": 1 },
+  {
+    "player_dismissed": "AG Paunikar",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "FY Fazal",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AS Raut",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Singh",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SW Tait",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SK Trivedi", "wicket_taker": "B Lee", "maxtimes": 1 },
+  { "player_dismissed": "IK Pathan", "wicket_taker": "PP Ojha", "maxtimes": 2 },
+  {
+    "player_dismissed": "Y Nagar",
+    "wicket_taker": "DT Christian",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "TD Paine", "wicket_taker": "MM Patel", "maxtimes": 1 },
+  {
+    "player_dismissed": "M Kartik",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "JEC Franklin",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SB Wagh",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "R Sharma", "wicket_taker": "MM Patel", "maxtimes": 1 },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "SB Wagh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Lee",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "R McLaren", "wicket_taker": "SW Tait", "maxtimes": 1 },
+  { "player_dismissed": "AS Raut", "wicket_taker": "BA Bhatt", "maxtimes": 1 },
+  {
+    "player_dismissed": "R Sathish",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "S Anirudha",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Ashwin",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "Joginder Sharma",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Randiv",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BJ Haddin",
+    "wicket_taker": "J Syed Mohammad",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "Y Nagar", "wicket_taker": "AM Nayar", "maxtimes": 1 },
+  { "player_dismissed": "DA Warner", "wicket_taker": "P Kumar", "maxtimes": 3 },
+  {
+    "player_dismissed": "PC Valthaty",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Sunny Singh",
+    "wicket_taker": "AB Agarkar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Jacobs",
+    "wicket_taker": "I Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Sohal",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "S Dhawan",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "CL White",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DT Christian",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "RV Gomez",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SR Watson",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 5
+  },
+  {
+    "player_dismissed": "S Anirudha",
+    "wicket_taker": "JE Taylor",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RV Uthappa",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 4
+  },
+  { "player_dismissed": "R Sharma", "wicket_taker": "MS Dhoni", "maxtimes": 1 },
+  {
+    "player_dismissed": "JE Taylor",
+    "wicket_taker": "A Mukund (sub)",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NL McCullum",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MS Wade", "wicket_taker": "A Mithun", "maxtimes": 1 },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "A Mithun", "maxtimes": 1 },
+  { "player_dismissed": "CA Pujara", "wicket_taker": "Y Nagar", "maxtimes": 1 },
+  { "player_dismissed": "A Mithun", "wicket_taker": "M Morkel", "maxtimes": 1 },
+  {
+    "player_dismissed": "MR Marsh",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CL White",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "RV Gomez", "wicket_taker": "I Sharma", "maxtimes": 1 },
+  {
+    "player_dismissed": "EJG Morgan",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Lee", "wicket_taker": "Y Nagar", "maxtimes": 1 },
+  { "player_dismissed": "TR Birt", "wicket_taker": "YK Pathan", "maxtimes": 1 },
+  {
+    "player_dismissed": "JR Hopes",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "Y Nagar", "wicket_taker": "L Balaji", "maxtimes": 1 },
+  { "player_dismissed": "DJ Jacobs", "wicket_taker": "A Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "TD Paine",
+    "wicket_taker": "S Aravind",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "Y Nagar", "wicket_taker": "RA Jadeja", "maxtimes": 1 },
+  { "player_dismissed": "TR Birt", "wicket_taker": "RR Powar", "maxtimes": 1 },
+  {
+    "player_dismissed": "M Klinger",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "BJ Hodge", "wicket_taker": "M Morkel", "maxtimes": 2 },
+  { "player_dismissed": "B Akhil", "wicket_taker": "M Morkel", "maxtimes": 1 },
+  {
+    "player_dismissed": "RR Powar",
+    "wicket_taker": "RE van der Merwe",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Sreesanth",
+    "wicket_taker": "RE van der Merwe",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Harpreet Singh",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Sharma",
+    "wicket_taker": "DH Yagnik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Jacobs",
+    "wicket_taker": "Bipul Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Bipul Sharma",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RJ Harris",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Y Nagar",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TR Birt",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Klinger",
+    "wicket_taker": "RE van der Merwe",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AL Menaria",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "LRPL Taylor",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AC Blizzard",
+    "wicket_taker": "AC Thomas",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JD Ryder",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MK Pandey",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 4
+  },
+  { "player_dismissed": "SB Wagh", "wicket_taker": "AT Rayudu", "maxtimes": 1 },
+  {
+    "player_dismissed": "M Klinger",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Lee", "wicket_taker": "RA Jadeja", "maxtimes": 1 },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "AB Agarkar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TR Birt",
+    "wicket_taker": "DT Christian",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AUK Pathan",
+    "wicket_taker": "RJ Harris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sunny Singh",
+    "wicket_taker": "DL Vettori",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R McLaren",
+    "wicket_taker": "S Aravind",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AC Blizzard",
+    "wicket_taker": "S Nadeem",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CA Ingram",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "TL Suman", "maxtimes": 1 },
+  {
+    "player_dismissed": "Y Nagar",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Morkel",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Klinger",
+    "wicket_taker": "CH Gayle",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RV Gomez",
+    "wicket_taker": "S Aravind",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SD Chitnis",
+    "wicket_taker": "WD Parnell",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "SJ Srivastava",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AS Raut", "wicket_taker": "WP Saha", "maxtimes": 1 },
+  { "player_dismissed": "A Singh", "wicket_taker": "SK Raina", "maxtimes": 1 },
+  {
+    "player_dismissed": "Mandeep Singh",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "P Kumar",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "AC Blizzard",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DS Kulkarni",
+    "wicket_taker": "BA Bhatt",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MM Patel", "wicket_taker": "BA Bhatt", "maxtimes": 1 },
+  {
+    "player_dismissed": "CA Ingram",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JR Hopes", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  {
+    "player_dismissed": "AB McDonald",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RV Gomez",
+    "wicket_taker": "RJ Harris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KB Arun Karthik",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AC Blizzard",
+    "wicket_taker": "JP Duminy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Sriram",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JR Hopes",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "TR Birt", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  { "player_dismissed": "Y Nagar", "wicket_taker": "RJ Harris", "maxtimes": 1 },
+  { "player_dismissed": "FY Fazal", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  { "player_dismissed": "PR Shah", "wicket_taker": "BJ Hodge", "maxtimes": 1 },
+  {
+    "player_dismissed": "AA Chavan",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "ND Doshi",
+    "wicket_taker": "P Parameswaran",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CJ Ferguson",
+    "wicket_taker": "JP Duminy",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MR Marsh", "wicket_taker": "PP Ojha", "maxtimes": 1 },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "DT Christian",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AUK Pathan",
+    "wicket_taker": "PC Valthaty",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KB Arun Karthik",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB de Villiers",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "JJ van der Wath",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Mithun",
+    "wicket_taker": "RJ Harris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CK Langeveldt",
+    "wicket_taker": "SJ Srivastava",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Y Gnaneswara Rao",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JD Ryder",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "CJ Ferguson",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Rana", "wicket_taker": "L Balaji", "maxtimes": 1 },
+  {
+    "player_dismissed": "R McLaren",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BA Bhatt",
+    "wicket_taker": "Anand Rajan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MS Wade", "wicket_taker": "MR Marsh", "maxtimes": 1 },
+  { "player_dismissed": "M Vijay", "wicket_taker": "S Aravind", "maxtimes": 4 },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "AN Ahmed",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SP Goswami",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Shakib Al Hasan",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "AC Blizzard", "wicket_taker": "B Lee", "maxtimes": 1 },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AC Blizzard",
+    "wicket_taker": "S Aravind",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "Z Khan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "SB Jakati",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DL Vettori",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Mithun", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Badrinath",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "DE Bollinger",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MK Tiwary",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 4
+  },
+  { "player_dismissed": "B Lee", "wicket_taker": "UT Yadav", "maxtimes": 1 },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CJ Ferguson",
+    "wicket_taker": "RG Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Sharma",
+    "wicket_taker": "KD Karthik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "MN Samuels",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AL Menaria",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Bipul Sharma",
+    "wicket_taker": "AA Chavan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PP Chawla",
+    "wicket_taker": "KK Cooper",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB McDonald",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DL Vettori",
+    "wicket_taker": "DAJ Bracewell",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Y Nagar",
+    "wicket_taker": "DL Vettori",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Harris",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MS Gony", "wicket_taker": "RA Jadeja", "maxtimes": 1 },
+  {
+    "player_dismissed": "Ankit Sharma",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Lee", "wicket_taker": "KK Cooper", "maxtimes": 1 },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "Harmeet Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CJ Ferguson",
+    "wicket_taker": "Harmeet Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Chipli", "wicket_taker": "MM Patel", "maxtimes": 1 },
+  {
+    "player_dismissed": "A Mishra",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Ankit Sharma",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "RE Levi", "wicket_taker": "DW Steyn", "maxtimes": 2 },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DL Vettori",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "A Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KK Cooper",
+    "wicket_taker": "MM Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Chavan",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Singh",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "GB Hogg", "wicket_taker": "MM Patel", "maxtimes": 1 },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DL Vettori",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RR Bhatkal",
+    "wicket_taker": "DE Bollinger",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "AD Mascarenhas",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Sharma",
+    "wicket_taker": "AD Mascarenhas",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mandeep Singh",
+    "wicket_taker": "R Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "VY Mahesh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "R Bhatia", "maxtimes": 1 },
+  {
+    "player_dismissed": "AD Mascarenhas",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Bipul Sharma",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Harmeet Singh",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MS Bisla",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "Harmeet Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DL Vettori",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Muralitharan",
+    "wicket_taker": "A Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Jacobs",
+    "wicket_taker": "S Nadeem",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CJ McKay",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "J Botha",
+    "wicket_taker": "Anand Rajan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "AB de Villiers",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "SP Narine", "maxtimes": 1 },
+  {
+    "player_dismissed": "DJ Harris",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Saini", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "Mandeep Singh",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "Y Nagar", "wicket_taker": "AC Thomas", "maxtimes": 1 },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Saini", "wicket_taker": "PP Ojha", "maxtimes": 1 },
+  {
+    "player_dismissed": "IR Jaggi",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Ankit Sharma",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "KK Cooper", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  { "player_dismissed": "GB Hogg", "wicket_taker": "HV Patel", "maxtimes": 1 },
+  { "player_dismissed": "N Saini", "wicket_taker": "CJ McKay", "maxtimes": 1 },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "Azhar Mahmood",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "PA Patel", "wicket_taker": "B Kumar", "maxtimes": 5 },
+  {
+    "player_dismissed": "CL White",
+    "wicket_taker": "MN Samuels",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "A Ashish Reddy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AC Thomas",
+    "wicket_taker": "PA Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Y Nagar",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AC Blizzard",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RJ Peterson",
+    "wicket_taker": "DPMD Jayawardene",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PP Chawla",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Bipul Sharma",
+    "wicket_taker": "MS Dhoni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "N Saini",
+    "wicket_taker": "KMDN Kulasekara",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JA Morkel",
+    "wicket_taker": "Azhar Mahmood",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "Y Nagar", "wicket_taker": "A Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "IR Jaggi",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "JEC Franklin",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DW Steyn",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "V Pratap Singh",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "A Ashish Reddy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ Clarke",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB McDonald",
+    "wicket_taker": "Azhar Mahmood",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "N Saini",
+    "wicket_taker": "AB McDonald",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RJ Peterson",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ Clarke",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ Clarke",
+    "wicket_taker": "M de Lange",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "LR Shukla",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Saini", "wicket_taker": "SW Tait", "maxtimes": 1 },
+  {
+    "player_dismissed": "PP Chawla",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "BW Hilfenhaus",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RJ Peterson",
+    "wicket_taker": "F du Plessis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Harbhajan Singh",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 4
+  },
+  { "player_dismissed": "DJ Harris", "wicket_taker": "V Kohli", "maxtimes": 1 },
+  {
+    "player_dismissed": "CL White",
+    "wicket_taker": "P Parameswaran",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AUK Pathan",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "Y Nagar", "wicket_taker": "B Lee", "maxtimes": 1 },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "M Morkel", "wicket_taker": "B Lee", "maxtimes": 1 },
+  {
+    "player_dismissed": "VR Aaron",
+    "wicket_taker": "BB McCullum",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ Clarke",
+    "wicket_taker": "STR Binny",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AP Majumdar",
+    "wicket_taker": "J Botha",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AM Rahane", "wicket_taker": "B Kumar", "maxtimes": 6 },
+  {
+    "player_dismissed": "N Saini",
+    "wicket_taker": "A Ashish Reddy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DJ Harris",
+    "wicket_taker": "DJ Hussey",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PA Reddy",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AA Jhunjhunwala",
+    "wicket_taker": "SE Marsh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ Clarke",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AP Majumdar",
+    "wicket_taker": "HV Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AC Thomas",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Sharma",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MS Bisla", "wicket_taker": "PP Ojha", "maxtimes": 2 },
+  {
+    "player_dismissed": "DA Warner",
+    "wicket_taker": "BW Hilfenhaus",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "AP Majumdar",
+    "wicket_taker": "A Chandila",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CJ Ferguson",
+    "wicket_taker": "J Botha",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Sharma",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "N Saini",
+    "wicket_taker": "DT Christian",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Azhar Mahmood",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SD Chitnis",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Saini", "wicket_taker": "UT Yadav", "maxtimes": 1 },
+  {
+    "player_dismissed": "DB Das",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "N Saini", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  {
+    "player_dismissed": "SD Chitnis",
+    "wicket_taker": "BW Hilfenhaus",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "P Parameswaran",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UT Yadav",
+    "wicket_taker": "P Parameswaran",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PA Reddy",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SD Chitnis",
+    "wicket_taker": "AD Russell",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ Clarke",
+    "wicket_taker": "YK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AP Majumdar",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CJ Ferguson",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Harpreet Singh",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PA Reddy",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Ashish Reddy",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "M Muralitharan",
+    "wicket_taker": "A Ashish Reddy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LRPL Taylor",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "M Morkel",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JEC Franklin",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KA Pollard",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "JA Morkel",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sunny Gupta",
+    "wicket_taker": "SB Jakati",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "UT Yadav", "wicket_taker": "R Ashwin", "maxtimes": 1 },
+  { "player_dismissed": "VR Aaron", "wicket_taker": "MS Dhoni", "maxtimes": 1 },
+  { "player_dismissed": "UBT Chand", "wicket_taker": "B Lee", "maxtimes": 2 },
+  {
+    "player_dismissed": "MC Juneja",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Nehra", "wicket_taker": "SP Narine", "maxtimes": 1 },
+  { "player_dismissed": "MS Bisla", "wicket_taker": "A Nehra", "maxtimes": 2 },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "M Kartik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PA Reddy",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "GH Vihari", "wicket_taker": "B Kumar", "maxtimes": 2 },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MR Marsh",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "R Sharma", "wicket_taker": "DW Steyn", "maxtimes": 1 },
+  {
+    "player_dismissed": "MDKJ Perera",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "KK Cooper", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "MC Juneja",
+    "wicket_taker": "KK Cooper",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "KK Cooper",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "AS Rajpoot",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "B Laughlin",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MN Samuels",
+    "wicket_taker": "Mandeep Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MR Marsh",
+    "wicket_taker": "RJ Harris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Sharma",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KB Arun Karthik",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PA Reddy",
+    "wicket_taker": "M Muralitharan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KK Cooper",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Lee", "wicket_taker": "S Sreesanth", "maxtimes": 1 },
+  {
+    "player_dismissed": "Mohammed Shami",
+    "wicket_taker": "KK Cooper",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BMAJ Mendis",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MC Juneja",
+    "wicket_taker": "R Dhawan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Nehra",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Vohra", "wicket_taker": "RA Jadeja", "maxtimes": 2 },
+  {
+    "player_dismissed": "Gurkeerat Singh",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "R Sathish",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "PP Chawla",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "R McLaren",
+    "wicket_taker": "RP Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MDKJ Perera",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MC Juneja",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Morkel",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "PA Reddy", "wicket_taker": "S Nadeem", "maxtimes": 1 },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AJ Finch",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "MR Marsh",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Rampaul",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "P Awana",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MR Marsh", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Anirudha",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Vohra", "wicket_taker": "L Balaji", "maxtimes": 2 },
+  {
+    "player_dismissed": "Mandeep Singh",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "MS Gony", "wicket_taker": "JH Kallis", "maxtimes": 1 },
+  {
+    "player_dismissed": "EJG Morgan",
+    "wicket_taker": "Azhar Mahmood",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SMSM Senanayake",
+    "wicket_taker": "AC Gilchrist",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MC Juneja",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BJ Rohrer",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB McDonald",
+    "wicket_taker": "S Nadeem",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KB Arun Karthik",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "J Syed Mohammad",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BJ Rohrer",
+    "wicket_taker": "R Rampaul",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Q de Kock",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "BB Samantray",
+    "wicket_taker": "R Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MR Marsh", "wicket_taker": "DW Steyn", "maxtimes": 1 },
+  { "player_dismissed": "R Sharma", "wicket_taker": "A Mishra", "maxtimes": 1 },
+  {
+    "player_dismissed": "DH Yagnik",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "STR Binny",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "RT Ponting",
+    "wicket_taker": "A Chandila",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Dhawan",
+    "wicket_taker": "STR Binny",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MG Johnson",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "MC Juneja",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BMAJ Mendis",
+    "wicket_taker": "SK Raina",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AB Agarkar",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Morkel", "wicket_taker": "R Ashwin", "maxtimes": 1 },
+  {
+    "player_dismissed": "KM Jadhav",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "UT Yadav", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  { "player_dismissed": "MS Gony", "wicket_taker": "I Sharma", "maxtimes": 1 },
+  { "player_dismissed": "M Vohra", "wicket_taker": "A Mishra", "maxtimes": 2 },
+  { "player_dismissed": "PA Reddy", "wicket_taker": "MS Gony", "maxtimes": 1 },
+  {
+    "player_dismissed": "GH Vihari",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "BB Samantray",
+    "wicket_taker": "Azhar Mahmood",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BJ Hodge",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "S Sreesanth",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SW Tait", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "SK Trivedi",
+    "wicket_taker": "R Rampaul",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LJ Wright",
+    "wicket_taker": "Azhar Mahmood",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SS Tiwary",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "R Rampaul",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LJ Wright",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MR Marsh",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "B Kumar", "wicket_taker": "RP Singh", "maxtimes": 2 },
+  {
+    "player_dismissed": "AG Murtaza",
+    "wicket_taker": "CH Gayle",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "IC Pandey",
+    "wicket_taker": "CH Gayle",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "UBT Chand", "wicket_taker": "P Kumar", "maxtimes": 2 },
+  {
+    "player_dismissed": "BJ Rohrer",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Morkel",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "GH Vihari",
+    "wicket_taker": "SK Raina",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "X Thalaivan Sargunam",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PA Reddy",
+    "wicket_taker": "A Chandila",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Dhawan",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "DJG Sammy",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "KB Arun Karthik",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "J Syed Mohammad",
+    "wicket_taker": "DR Smith",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BJ Rohrer",
+    "wicket_taker": "AM Nayar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LJ Wright",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Mukund",
+    "wicket_taker": "SK Trivedi",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Rampaul",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MS Gony",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LJ Wright",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SPD Smith",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 4
+  },
+  {
+    "player_dismissed": "KW Richardson",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "R Sharma", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  {
+    "player_dismissed": "PA Reddy",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Narwal", "wicket_taker": "UT Yadav", "maxtimes": 1 },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mandeep Singh",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "AM Nayar", "wicket_taker": "M Kartik", "maxtimes": 2 },
+  {
+    "player_dismissed": "BAW Mendis",
+    "wicket_taker": "CH Gayle",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BMAJ Mendis",
+    "wicket_taker": "DJG Sammy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Nehra",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "CA Pujara", "wicket_taker": "P Awana", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Badrinath",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "PA Reddy", "wicket_taker": "RP Singh", "maxtimes": 1 },
+  {
+    "player_dismissed": "CM Gautam",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R McLaren",
+    "wicket_taker": "RG Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SP Narine",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "L Balaji",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MS Gony",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "EJG Morgan",
+    "wicket_taker": "MR Marsh",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UA Birla",
+    "wicket_taker": "Iqbal Abdulla",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MR Marsh", "wicket_taker": "R Bhatia", "maxtimes": 1 },
+  { "player_dismissed": "M Rawat", "wicket_taker": "JH Kallis", "maxtimes": 1 },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Parvez Rasool",
+    "wicket_taker": "L Balaji",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "CA Pujara", "wicket_taker": "S Kaul", "maxtimes": 1 },
+  {
+    "player_dismissed": "BJ Rohrer",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Morkel",
+    "wicket_taker": "JD Unadkat",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KW Richardson",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BB Samantray",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PP Chawla",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "Harmeet Singh",
+    "wicket_taker": "I Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Awana", "wicket_taker": "DJG Sammy", "maxtimes": 1 },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "SMSM Senanayake",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Rampaul",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "A Mithun",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Kartik", "wicket_taker": "L Balaji", "maxtimes": 1 },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "P Awana",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MC Juneja",
+    "wicket_taker": "Harmeet Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LA Pomersbach",
+    "wicket_taker": "RE van der Merwe",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "GH Vihari",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "AG Murtaza",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UBT Chand",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "BJ Rohrer",
+    "wicket_taker": "JA Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RE van der Merwe",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Nehra", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  { "player_dismissed": "AP Tare", "wicket_taker": "KK Cooper", "maxtimes": 2 },
+  { "player_dismissed": "CA Pujara", "wicket_taker": "MS Gony", "maxtimes": 1 },
+  {
+    "player_dismissed": "BB Samantray",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sachin Baby",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KK Cooper",
+    "wicket_taker": "DW Steyn",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Dhawan",
+    "wicket_taker": "Azhar Mahmood",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NM Coulter-Nile",
+    "wicket_taker": "Azhar Mahmood",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "LJ Wright", "wicket_taker": "S Kaul", "maxtimes": 1 },
+  {
+    "player_dismissed": "B Chipli",
+    "wicket_taker": "AG Murtaza",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BJ Rohrer",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CM Gautam",
+    "wicket_taker": "AD Mathews",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Morkel",
+    "wicket_taker": "AD Mathews",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Dogra", "wicket_taker": "DW Steyn", "maxtimes": 1 },
+  { "player_dismissed": "AP Tare", "wicket_taker": "JA Morkel", "maxtimes": 2 },
+  {
+    "player_dismissed": "SL Malinga",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AT Rayudu",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 5
+  },
+  {
+    "player_dismissed": "NLTC Perera",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "BB Samantray",
+    "wicket_taker": "AM Rahane",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KK Cooper",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Dhawan",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AP Tare",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "CM Gautam",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NJ Maddinson",
+    "wicket_taker": "Mohammed Shami",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AR Patel", "wicket_taker": "R Ashwin", "maxtimes": 2 },
+  {
+    "player_dismissed": "KL Rahul",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "NJ Maddinson",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JDS Neesham",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JDS Neesham",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammed Shami",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "DJG Sammy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TG Southee",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PV Tambe",
+    "wicket_taker": "F du Plessis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "YV Takawale",
+    "wicket_taker": "JH Kallis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Q de Kock",
+    "wicket_taker": "KV Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "CJ Anderson",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "F du Plessis",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "YV Takawale",
+    "wicket_taker": "STR Binny",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Rana", "wicket_taker": "SR Watson", "maxtimes": 1 },
+  { "player_dismissed": "MA Starc", "wicket_taker": "R Bhatia", "maxtimes": 1 },
+  {
+    "player_dismissed": "R Rampaul",
+    "wicket_taker": "PV Tambe",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "MK Pandey",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AR Patel",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "L Balaji",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UT Yadav",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CM Gautam",
+    "wicket_taker": "S Nadeem",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "YV Takawale",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MA Starc",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DA Miller",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "JP Faulkner",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "SV Samson",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "BR Dunk", "wicket_taker": "DJG Sammy", "maxtimes": 1 },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CA Pujara",
+    "wicket_taker": "CJ Anderson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DA Miller",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "BR Dunk",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CM Gautam",
+    "wicket_taker": "R Dhawan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MA Starc", "wicket_taker": "AJ Finch", "maxtimes": 1 },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "PV Tambe",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "BR Dunk", "wicket_taker": "HV Patel", "maxtimes": 1 },
+  {
+    "player_dismissed": "CM Gautam",
+    "wicket_taker": "VR Aaron",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MA Starc",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JP Faulkner",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "KW Richardson",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PV Tambe",
+    "wicket_taker": "IK Pathan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Shivam Sharma",
+    "wicket_taker": "MA Starc",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Rana", "wicket_taker": "AR Patel", "maxtimes": 1 },
+  { "player_dismissed": "MA Starc", "wicket_taker": "L Balaji", "maxtimes": 1 },
+  {
+    "player_dismissed": "CM Gautam",
+    "wicket_taker": "S Badree",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LMP Simmons",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "WP Saha", "wicket_taker": "M Morkel", "maxtimes": 3 },
+  {
+    "player_dismissed": "R Dhawan",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "VH Zol", "wicket_taker": "R Tewatia", "maxtimes": 1 },
+  { "player_dismissed": "CM Gautam", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "Ankit Sharma",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Bhatia",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "MC Henriques",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "IK Pathan",
+    "wicket_taker": "R Dhawan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "CM Gautam",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KK Cooper",
+    "wicket_taker": "JP Duminy",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BCJ Cutting",
+    "wicket_taker": "R Shukla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Imran Tahir",
+    "wicket_taker": "STR Binny",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Shukla",
+    "wicket_taker": "KK Cooper",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "S Rana", "wicket_taker": "DJ Hussey", "maxtimes": 1 },
+  {
+    "player_dismissed": "DA Warner",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 3
+  },
+  {
+    "player_dismissed": "DJG Sammy",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "LMP Simmons",
+    "wicket_taker": "Ankit Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "KK Cooper",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Ankit Sharma",
+    "wicket_taker": "S Gopal",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "WD Parnell",
+    "wicket_taker": "BE Hendricks",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M Vohra",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "MA Starc", "wicket_taker": "NV Ojha", "maxtimes": 1 },
+  {
+    "player_dismissed": "BE Hendricks",
+    "wicket_taker": "JJ Bumrah",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "YV Takawale",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "M de Lange",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Gopal",
+    "wicket_taker": "KD Karthik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Tewatia",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KK Cooper",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RR Rossouw",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "YV Takawale",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "VH Zol", "wicket_taker": "MM Sharma", "maxtimes": 1 },
+  {
+    "player_dismissed": "S Anirudha",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JO Holder",
+    "wicket_taker": "RV Uthappa",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "NV Ojha",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JDS Neesham",
+    "wicket_taker": "Karanveer Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Mohammed Shami",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Imran Tahir",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JD Unadkat",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "Karanveer Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "M Vohra", "wicket_taker": "M Morkel", "maxtimes": 2 },
+  {
+    "player_dismissed": "R Dhawan",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "LMP Simmons",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "DR Smith",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 4
+  },
+  { "player_dismissed": "M Vohra", "wicket_taker": "IC Pandey", "maxtimes": 2 },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "Karanveer Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "CM Gautam", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "JP Duminy",
+    "wicket_taker": "IC Pandey",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "NM Coulter-Nile",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Imran Tahir",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KV Sharma",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "SA Yadav", "wicket_taker": "HV Patel", "maxtimes": 1 },
+  {
+    "player_dismissed": "SA Abbott",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "R Dhawan",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Abbott",
+    "wicket_taker": "TA Boult",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "VR Aaron", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  { "player_dismissed": "AN Ahmed", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "DJ Hooda",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "P Negi", "wicket_taker": "GB Hogg", "maxtimes": 2 },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "AD Russell",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SA Yadav", "wicket_taker": "RG More", "maxtimes": 1 },
+  {
+    "player_dismissed": "KV Sharma",
+    "wicket_taker": "NM Coulter-Nile",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "MG Johnson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Iqbal Abdulla",
+    "wicket_taker": "RG Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NM Coulter-Nile",
+    "wicket_taker": "MK Pandey",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "NM Coulter-Nile",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JP Faulkner",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "RS Bopara",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "MA Starc",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SN Khan", "wicket_taker": "RA Jadeja", "maxtimes": 1 },
+  { "player_dismissed": "HV Patel", "wicket_taker": "A Nehra", "maxtimes": 2 },
+  { "player_dismissed": "D Wiese", "wicket_taker": "DJ Bravo", "maxtimes": 2 },
+  {
+    "player_dismissed": "MJ McClenaghan",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DS Kulkarni",
+    "wicket_taker": "MA Starc",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Anureet Singh",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NM Coulter-Nile",
+    "wicket_taker": "D Wiese",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KM Jadhav",
+    "wicket_taker": "HV Patel",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "DJ Muthuswami",
+    "wicket_taker": "AB de Villiers",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "GJ Bailey",
+    "wicket_taker": "MC Henriques",
+    "maxtimes": 3
+  },
+  { "player_dismissed": "R Dhawan", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "Anureet Singh",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "Imran Tahir",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PJ Cummins",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "UT Yadav", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "TG Southee",
+    "wicket_taker": "KA Pollard",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "KD Karthik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "MA Starc",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NM Coulter-Nile",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "KD Karthik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "NJ Maddinson",
+    "wicket_taker": "IC Pandey",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SN Khan", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  {
+    "player_dismissed": "MA Starc",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Iqbal Abdulla",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "Bipul Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "RN ten Doeschate",
+    "wicket_taker": "MC Henriques",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SA Yadav", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "Bipul Sharma",
+    "wicket_taker": "RN ten Doeschate",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Anureet Singh",
+    "wicket_taker": "MA Starc",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Karanveer Singh",
+    "wicket_taker": "MA Starc",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sandeep Sharma",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "Gurkeerat Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "AR Patel",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "GB Hogg",
+    "wicket_taker": "Anureet Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "J Suchith",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Ankit Sharma",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SN Khan",
+    "wicket_taker": "Anureet Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "MJ McClenaghan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Gurkeerat Singh",
+    "wicket_taker": "R Ashwin",
+    "maxtimes": 2
+  },
+  { "player_dismissed": "AR Patel", "wicket_taker": "DJ Bravo", "maxtimes": 2 },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "MK Pandey",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Q de Kock",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "A Nehra",
+    "wicket_taker": "SL Malinga",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "MA Starc",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DS Kulkarni",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SN Khan", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  { "player_dismissed": "S Gopal", "wicket_taker": "M Ashwin", "maxtimes": 1 },
+  {
+    "player_dismissed": "Q de Kock",
+    "wicket_taker": "AD Russell",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "CR Brathwaite",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "PP Chawla",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MP Stoinis",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "MJ McClenaghan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "C Munro",
+    "wicket_taker": "TG Southee",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ McClenaghan",
+    "wicket_taker": "Kuldeep Yadav",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MR Marsh",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MM Sharma", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "Mustafizur Rahman",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TG Southee",
+    "wicket_taker": "KD Karthik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Nath",
+    "wicket_taker": "MJ McClenaghan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SN Khan",
+    "wicket_taker": "Mohammed Shami",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "HH Pandya",
+    "wicket_taker": "Mustafizur Rahman",
+    "maxtimes": 2
+  },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "M Morkel",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "P Sahu", "wicket_taker": "AD Russell", "maxtimes": 1 },
+  {
+    "player_dismissed": "TM Head",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SN Khan", "wicket_taker": "JJ Bumrah", "maxtimes": 1 },
+  { "player_dismissed": "AD Nath", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "M Ashwin",
+    "wicket_taker": "KW Richardson",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "KH Pandya", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "NS Naik",
+    "wicket_taker": "Mustafizur Rahman",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "SA Yadav", "wicket_taker": "M Ashwin", "maxtimes": 1 },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "NS Naik", "wicket_taker": "JJ Bumrah", "maxtimes": 1 },
+  {
+    "player_dismissed": "Bipul Sharma",
+    "wicket_taker": "NLTC Perera",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "TG Southee",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "TG Southee",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "SP Narine",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "UT Yadav",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Brathwaite",
+    "wicket_taker": "AD Russell",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "CR Brathwaite",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JO Holder",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "UT Yadav", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "Sachin Baby",
+    "wicket_taker": "A Nehra",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Parvez Rasool",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MP Stoinis",
+    "wicket_taker": "RA Jadeja",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MM Sharma", "wicket_taker": "P Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "KC Cariappa",
+    "wicket_taker": "P Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "PSP Handscomb",
+    "wicket_taker": "Harbhajan Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sachin Baby",
+    "wicket_taker": "AD Russell",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "AD Russell",
+    "wicket_taker": "WP Saha",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MP Stoinis",
+    "wicket_taker": "AD Russell",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Swapnil Singh",
+    "wicket_taker": "AD Russell",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "R Bhatia",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Brathwaite",
+    "wicket_taker": "SM Boland",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "J Yadav", "wicket_taker": "SS Tiwary", "maxtimes": 1 },
+  {
+    "player_dismissed": "UT Khawaja",
+    "wicket_taker": "A Mishra",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "DJ Hooda", "wicket_taker": "DJ Bravo", "maxtimes": 2 },
+  {
+    "player_dismissed": "UT Khawaja",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "MP Stoinis", "wicket_taker": "Z Khan", "maxtimes": 1 },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "MP Stoinis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Brathwaite",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "KH Pandya", "wicket_taker": "BB Sran", "maxtimes": 1 },
+  {
+    "player_dismissed": "TG Southee",
+    "wicket_taker": "Mustafizur Rahman",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ McClenaghan",
+    "wicket_taker": "Mustafizur Rahman",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JJ Bumrah", "wicket_taker": "BB Sran", "maxtimes": 1 },
+  { "player_dismissed": "SA Yadav", "wicket_taker": "DR Smith", "maxtimes": 1 },
+  {
+    "player_dismissed": "TM Head",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sachin Baby",
+    "wicket_taker": "DA Miller",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UT Khawaja",
+    "wicket_taker": "DJ Hooda",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "A Zampa", "wicket_taker": "A Nehra", "maxtimes": 1 },
+  { "player_dismissed": "N Rana", "wicket_taker": "YS Chahal", "maxtimes": 1 },
+  { "player_dismissed": "N Rana", "wicket_taker": "MP Stoinis", "maxtimes": 1 },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "MP Stoinis",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "TG Southee",
+    "wicket_taker": "MM Sharma",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MJ McClenaghan",
+    "wicket_taker": "Sandeep Sharma",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "AD Nath", "wicket_taker": "YS Chahal", "maxtimes": 1 },
+  {
+    "player_dismissed": "DS Kulkarni",
+    "wicket_taker": "CJ Jordan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "S Kaushik",
+    "wicket_taker": "Sachin Baby",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UT Khawaja",
+    "wicket_taker": "Shakib Al Hasan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CH Morris",
+    "wicket_taker": "AT Rayudu",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Imran Tahir",
+    "wicket_taker": "R Vinay Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "S Aravind",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UT Khawaja",
+    "wicket_taker": "CH Morris",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "F Behardien",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KJ Abbott",
+    "wicket_taker": "YS Chahal",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "MM Sharma",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "SB Jakati",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "JO Holder",
+    "wicket_taker": "DJ Bravo",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Brathwaite",
+    "wicket_taker": "Mustafizur Rahman",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "F Behardien",
+    "wicket_taker": "AB Dinda",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "UT Khawaja",
+    "wicket_taker": "Gurkeerat Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "KH Pandya",
+    "wicket_taker": "DR Smith",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "N Rana", "wicket_taker": "DJ Bravo", "maxtimes": 1 },
+  { "player_dismissed": "C Munro", "wicket_taker": "DJ Hooda", "maxtimes": 1 },
+  {
+    "player_dismissed": "JO Holder",
+    "wicket_taker": "Mustafizur Rahman",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SW Billings",
+    "wicket_taker": "CJ Jordan",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "CR Brathwaite",
+    "wicket_taker": "CH Gayle",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "J Yadav", "wicket_taker": "YS Chahal", "maxtimes": 1 },
+  {
+    "player_dismissed": "ER Dwivedi",
+    "wicket_taker": "SR Watson",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "DS Kulkarni",
+    "wicket_taker": "Sachin Baby",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Sachin Baby",
+    "wicket_taker": "DS Kulkarni",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BCJ Cutting",
+    "wicket_taker": "Kuldeep Yadav",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "C Munro",
+    "wicket_taker": "Yuvraj Singh",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "SA Yadav",
+    "wicket_taker": "MC Henriques",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "JO Holder", "wicket_taker": "B Kumar", "maxtimes": 1 },
+  {
+    "player_dismissed": "ER Dwivedi",
+    "wicket_taker": "B Kumar",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "BCJ Cutting",
+    "wicket_taker": "S Kaushik",
+    "maxtimes": 1
+  },
+  {
+    "player_dismissed": "Bipul Sharma",
+    "wicket_taker": "CJ Jordan",
+    "maxtimes": 1
+  },
+  { "player_dismissed": "CJ Jordan", "wicket_taker": "NV Ojha", "maxtimes": 1 }
+]

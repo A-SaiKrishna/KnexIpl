@@ -17,7 +17,7 @@ async function main() {
     const result = await Knex.select("season", "batsman")
       .select(
         Knex.raw(
-          "Round(SUM(CASE WHEN noball_runs =0 AND wide_runs =0 THEN 1 ELSE 0 END),2) AS strike_rate"
+          "ROUND(SUM(batsman_runs) * 100 /SUM(CASE WHEN noball_runs =0 AND wide_runs =0 THEN 1 ELSE 0 END),2) AS strike_rate"
         )
       )
       .from("match")
